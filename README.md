@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
 <h3 align="left">My Experience:</h3>
-<2019-03~2019-10> Complete of the Korea IT Academy Web Development Course<br>
+<2019-03~2019-10> Complete of the Korea IT Academy Java Course and Web Development Course<br>
 <2020-07~2020-08> Complete of the Sen Francisco State University International Training<br>
 <~now> Senior in university<br><br>
 
