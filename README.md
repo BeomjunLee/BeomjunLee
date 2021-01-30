@@ -8,17 +8,6 @@
 - 📫 How to reach me **qjawnswkd0717@gmail.com**
 
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
-<h3 align="left">My Experience:</h3>
-<2019-03~2019-10> Complete of the Korea IT Academy Java Course and Web Development Course<br>
-<2020-07~2020-08> Complete of the Sen Francisco State University Software Innovation & Technology Training<br>
-<~now> Senior in university<br><br>
-
-- Annual Salary Management System in memory (java)<br>
-- Movie Tickeing Service (java + swing + Oracle)<br>
-- Face Recognition Web Service (mvc2 + java + Oracle + jsp + open api)<br>
-- EventInfo Community Web Service (mvc2 + java + Oracle + jsp) Web<br>
-- BathBomb Subscribe Web Service (Spring Boot + Oracle JdbcTemplate + Thymeleaf)<br>
-- Waiting Ticketing API Service (Spring Boot + Springdata JPA + Spring Security JWT + Restful API)<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
