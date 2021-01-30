@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1>
 <h3 align="center">I'm studying to be a backend developer.</h3>
 
-- 🌱 I’m currently learning **Docker and AWS**
+- 🌱 I’m currently learning **Docker, AWS and Kotlin**
 
-- 💬 Ask me about **JPA, SpringBoot**
+- 💬 Ask me about **JPA and SpringBoot**
 
 - 📫 How to reach me **qjawnswkd0717@gmail.com**
 
