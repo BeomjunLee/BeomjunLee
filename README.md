@@ -13,10 +13,11 @@
 
 - Java<br>
 - Spring Boot<br>
-- Springdata JPA<br>
+- Spring Data JPA<br>
 - Spring Security<br>
 - Junit5<br>
-- Oracle(jdbc)<br>
+- Oracle (JDBC)<br>
 - H2 DB<br>
 - Thymeleaf<br>
+- MVC<br>
 - JSP<br>
