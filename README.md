@@ -16,8 +16,7 @@
 - Spring Data JPA<br>
 - Spring Security<br>
 - Junit5<br>
-- Oracle (JDBC)<br>
-- H2 DB<br>
+- Oracle, MYSQL, H2<br>
 - Thymeleaf<br>
 - MVC<br>
 - JSP<br>
