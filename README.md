@@ -20,3 +20,5 @@
 - Thymeleaf<br>
 - MVC<br>
 - JSP<br>
+- AWS<br>
+- Docker
