@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1>
 <h3 align="center">I'm studying to be a backend developer.</h3>
 
-- 🌱 I’m currently learning **Docker, AWS and Kotlin**
+- 🌱 I’m currently learning **Docker, AWS and Design Pattern**
 
 - 💬 Ask me about **JPA and SpringBoot**
 
@@ -10,7 +10,6 @@
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 - Java<br>
 - Spring Boot<br>
