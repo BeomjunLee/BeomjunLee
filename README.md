@@ -15,7 +15,7 @@
 - Java<br>
 - Spring Boot<br>
 - Spring Data JPA<br>
-- 
+- Querydsl<br>
 - Spring Security<br>
 - Junit5<br>
 - Oracle, MYSQL, H2<br>
