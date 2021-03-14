@@ -17,7 +17,7 @@
 - Spring Data JPA<br>
 - Querydsl<br>
 - Spring Security<br>
-- Junit5<br>
+- AssertJ, Junit5<br>
 - Oracle, MYSQL, H2<br>
 - Thymeleaf<br>
 - MVC<br>
