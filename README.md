@@ -13,7 +13,7 @@
 
 
 - Java<br>
-- Spring Boot<br>
+- Spring, Spring Boot<br>
 - Spring Data JPA<br>
 - Querydsl<br>
 - Spring Security<br>
