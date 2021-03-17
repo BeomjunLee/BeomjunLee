@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying to be a backend developer.</h3>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qjawnswkd0717@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **Docker, AWS, Clean Code and TTD**
 
