@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1>
 <h3 align="center">I'm studying to be a backend developer.</h3>
-<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BeomjunLee)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **Docker, AWS, Clean Code and TTD**
 
