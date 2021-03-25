@@ -24,3 +24,4 @@
 - JSP<br>
 - AWS<br>
 - Docker<br>
+- WebSocket<br>
