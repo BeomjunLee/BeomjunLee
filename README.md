@@ -15,13 +15,10 @@
 - Java<br>
 - Spring, Spring Boot<br>
 - Spring Data JPA<br>
-- Querydsl<br>
+- JPA, Querydsl<br>
 - Spring Security<br>
 - AssertJ, Junit5<br>
 - Oracle, MYSQL, H2<br>
 - Thymeleaf<br>
 - MVC<br>
 - JSP<br>
-- AWS<br>
-- Docker<br>
-- WebSocket<br>
