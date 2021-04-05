@@ -14,8 +14,8 @@
 
 - Java<br>
 - Spring, Spring Boot<br>
-- Spring Data JPA<br>
-- JPA, Querydsl<br>
+- Spring Data-jpa<br>
+- JPA, Querydsl-jpa<br>
 - Spring Security<br>
 - AssertJ, Junit5<br>
 - Oracle, MYSQL, H2<br>
