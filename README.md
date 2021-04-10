@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **JPA and SpringBoot**  
  
-- 📫 How to reach me **qjawnswkd0717@gmail.com**  
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
 
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
 
