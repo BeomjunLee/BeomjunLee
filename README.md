@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **JPA and SpringBoot**  
  
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
-
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
 
 <p>
@@ -25,4 +23,6 @@
 - Oracle, MYSQL, H2<br>
 - Thymeleaf<br>
 - MVC<br>
-- JSP<br>
+- JSP<br><br>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
