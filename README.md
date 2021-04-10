@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38)
 <h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend sever developer.</h3>  
 
 - 🌱 I’m currently learning **Docker, AWS, Clean Code and TTD**
