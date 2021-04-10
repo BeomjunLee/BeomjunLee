@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend sever developer.</h3>  
 
-- 🌱 I’m currently learning **Docker, AWS, Clean Code and TTD**
+- 🌱 I’m currently learning **Docker, Spring Cloud & Microservices**
 
 - 💬 Ask me about **JPA and SpringBoot**  
  
