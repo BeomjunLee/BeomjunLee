@@ -26,3 +26,4 @@
 - JSP<br><br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/qjawnswkd/)](https://blog.naver.com/qjawnswkd)
