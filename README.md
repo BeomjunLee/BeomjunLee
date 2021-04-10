@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beomjun</h1> 
-
-<h3 align="center">I'm studying to be a server developer.</h3>  
+<h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a server developer.</h3>  
 
 ![BeomjunLee's github stats](https://github-readme-stats.vercel.app/api?username=BeomjunLee&show_icons=true)
 
