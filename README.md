@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Docker, TDD, Spring Cloud & Microservices**
 
-- 💬 Ask me about **JPA and SpringBoot**  
+- 💬 Ask me about **JPA and SpringBoot**   
  
 - 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
 
