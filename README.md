@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **JPA and SpringBoot**   
  
-- 📄 Know about my experiences [https://blog.naver.com/qjawnswkd](https://blog.naver.com/qjawnswkd)
+- 📄 Know about my experiences [My Tech Blog](https://blog.naver.com/qjawnswkd)
 
 <p>
   <a href="https://github.com/BeomjunLee">
