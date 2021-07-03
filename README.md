@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend sever developer.</h3>  
+<h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend server developer.</h3>  
 
-- 🌱 I’m currently learning **Docker, Spring Cloud & Microservices**
+- 🌱 I’m currently learning **Redis, Spring Cloud & Microservices**
 
-- 💬 Ask me about **JPA and SpringBoot**   
+- 💬 Ask me about **JPA and Spring Boot**   
  
 - 📄 Know about my experiences [My Tech Blog](https://blog.naver.com/qjawnswkd)
+
+- NAVER WEBTOON Corp **Server Developer Intern** 2021.07 ~ ing
 
 <p>
   <a href="https://github.com/BeomjunLee">
@@ -15,15 +17,12 @@
 
 
 - Java<br>
-- Spring, Spring Boot<br>
-- Spring Data-jpa<br>
-- JPA, Querydsl-jpa<br>
+- Spring Boot (Spring Framework)<br>
+- Spring Data-jpa, Querydsl-jpa<br>
 - Spring Security<br>
 - AssertJ, Junit5<br>
-- Oracle, MYSQL, H2<br>
-- Thymeleaf<br>
-- MVC<br>
-- JSP<br><br>
+- Oracle, Mysql, H2<br>
+- Thymeleaf, JSP<br>
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
