@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend server developer.</h3>  
 
-- 🌱 I’m currently learning **Redis, Spring Cloud & Microservices**
+- 🌱 I’m currently learning **Kafka and Redis**
 
 - 💬 Ask me about **JPA and Spring Boot**   
  
