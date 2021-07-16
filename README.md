@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend server developer.</h3>  
 
-- 🌱 I’m currently learning **Kafka and Redis**
+- 🌱 I’m currently learning **Kafka, Redis, Spring Batch**
 
 - 💬 Ask me about **JPA and Spring Boot**   
  
@@ -20,8 +20,10 @@
 - Spring Boot (Spring Framework)<br>
 - Spring Data-jpa, Querydsl-jpa<br>
 - Spring Security<br>
+- Spring Batch<br>
+- Kafka<br>
 - AssertJ, Junit5<br>
-- Oracle, Mysql, H2<br>
+- Redis, Oracle, Mysql, H2<br>
 - Thymeleaf, JSP<br>
 
 
