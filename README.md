@@ -6,7 +6,7 @@
  
 - 📄 Know about my experiences [My Tech Blog](https://blog.naver.com/qjawnswkd)
 
-- NAVER WEBTOON Corp **Server Developer Intern** 2021.07 ~ ing
+- NAVER WEBTOON Corp **Server Development Intern** 2021.07.05 ~ 2021.08.27
 
 <p>
   <a href="https://github.com/BeomjunLee">
