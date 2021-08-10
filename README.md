@@ -24,7 +24,7 @@
 - Kafka<br>
 - AssertJ, Junit5<br>
 - Redis, Oracle, Mysql, H2<br>
-- Thymeleaf, JSP<br>
+- Thymeleaf, JSP, Freemarker<br>
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
