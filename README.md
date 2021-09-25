@@ -8,6 +8,7 @@
 
 - NAVER WEBTOON Corp **Server Development Intern** 2021.07.05 ~ 2021.08.27
 
+- NAVER WEBTOON Corp **Server Developer** 2021.10.05 ~
 <p>
   <a href="https://github.com/BeomjunLee">
     <img width="55%" align="right" alt="Beomjun's github stats" src="https://github-readme-stats.vercel.app/api?username=BeomjunLee&theme=dracula&show_icons=true&hide_border=true" />
