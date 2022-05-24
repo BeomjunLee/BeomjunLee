@@ -17,7 +17,7 @@
 
 - Java<br>
 - Spring Boot, Spring MVC<br>
-- Spring Data-jpa, Querydsl-jpa, mybatis<br>
+- Spring Data-jpa, Querydsl-jpa, Mybatis<br>
 - Spring Security<br>
 - Spring Batch<br>
 - Kafka<br>
