@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beomjun</h1> <h3 align="center">I'm studying to be a backend server developer.</h3>  
 
-- 🌱 I’m currently learning **Kafka, Redis, Spring Batch**
-
-- 💬 Ask me about **JPA and Spring Boot**   
+- 🌱 I’m interested in **Kafka, MSA**
  
 - 📄 Know about my experiences [My Tech Blog](https://blog.naver.com/qjawnswkd)
 
@@ -18,13 +16,13 @@
 
 
 - Java<br>
-- Spring Boot (Spring Framework)<br>
-- Spring Data-jpa, Querydsl-jpa<br>
+- Spring Boot, Spring MVC<br>
+- Spring Data-jpa, Querydsl-jpa, mybatis<br>
 - Spring Security<br>
 - Spring Batch<br>
 - Kafka<br>
 - AssertJ, Junit5<br>
-- Redis, Oracle, Mysql, H2<br>
+- Redis, Oracle, Mysql, MongoDB, H2<br>
 - Thymeleaf, JSP, Freemarker, Vue.js<br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qjawnswkd0717@gmail.com)
